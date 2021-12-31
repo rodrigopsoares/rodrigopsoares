@@ -14,7 +14,7 @@
 - Data Visualization
 
 # My projects
-[Exploratory Data Analysis - Enem](https://github.com/rodrigopsoares/EAD_Enem_2019)
-
+[Exploratory Data Analysis - Enem_2019](https://github.com/rodrigopsoares/EAD_Enem_2019)
+[Exploratory Data Analysis - Airbnb_Paris](https://github.com/rodrigopsoares/EDA_Airbnb_Paris)
 # Get in touch
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" 
