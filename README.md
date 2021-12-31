@@ -5,7 +5,7 @@
 - 📖 Always looking for new challenges 
 - 📖 Constantly learning new things
 - 📝 Currently studying Data Analysis
-##
+
 # Skills
 - Python
 - MySQL
