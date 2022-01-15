@@ -5,7 +5,6 @@
 
 </div> 
  
-
 # Who am I?
 - 🎓 Bachelor of Science in Civil Engineering (UFES)
 - 🎓 Master of Science in Structural Engineering (PUC-Rio)
